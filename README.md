@@ -65,3 +65,4 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![GD_EXP10](https://github.com/user-attachments/assets/b3ef6b9b-8b05-47f2-9f5a-8f8f01ec4217)
